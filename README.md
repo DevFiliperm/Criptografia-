@@ -1,2 +1,4 @@
 # Criptografia-
-Tarefa proposta pelo Prof Rodrigo 
+Tarefa proposta pelo Prof Rodrigo
+
+Palavra = .
